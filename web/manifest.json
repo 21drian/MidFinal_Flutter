@@ -1,6 +1,6 @@
 {
-    "name": "boiser",
-    "short_name": "boiser",
+    "name": "ScoreMind",
+    "short_name": "ScoreMind",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
