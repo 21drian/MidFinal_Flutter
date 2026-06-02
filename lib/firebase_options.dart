@@ -1,6 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 
-/// Firebase configuration for the Boiser app.
+///
 ///
 /// ════════════════════════════════════════════════════════════════
 ///  HOW TO FILL THIS IN
