@@ -1,4 +1,4 @@
-package com.example.boiser
+package com.adrian.scoremind
 
 import io.flutter.embedding.android.FlutterActivity
 
